@@ -1,0 +1,17 @@
+C:\Users\stepguest\Desktop\EXAM\Users\dist\Users.exe
+C:\Users\stepguest\Desktop\EXAM\Users\dist\dist\web.config
+C:\Users\stepguest\Desktop\EXAM\Users\dist\appsettings.Development.json
+C:\Users\stepguest\Desktop\EXAM\Users\dist\appsettings.json
+C:\Users\stepguest\Desktop\EXAM\Users\dist\dist\appsettings.Development.json
+C:\Users\stepguest\Desktop\EXAM\Users\dist\dist\appsettings.json
+C:\Users\stepguest\Desktop\EXAM\Users\dist\dist\Users.deps.json
+C:\Users\stepguest\Desktop\EXAM\Users\dist\dist\Users.runtimeconfig.json
+C:\Users\stepguest\Desktop\EXAM\Users\dist\Users.dll
+C:\Users\stepguest\Desktop\EXAM\Users\dist\Users.deps.json
+C:\Users\stepguest\Desktop\EXAM\Users\dist\Users.runtimeconfig.json
+C:\Users\stepguest\Desktop\EXAM\Users\dist\Users.pdb
+C:\Users\stepguest\Desktop\EXAM\Users\dist\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\stepguest\Desktop\EXAM\Users\dist\Microsoft.OpenApi.dll
+C:\Users\stepguest\Desktop\EXAM\Users\dist\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\stepguest\Desktop\EXAM\Users\dist\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\stepguest\Desktop\EXAM\Users\dist\Swashbuckle.AspNetCore.SwaggerUI.dll
